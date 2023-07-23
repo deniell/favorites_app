@@ -8,7 +8,11 @@ Allow to:
 
 Based on codelab: https://codelabs.developers.google.com/codelabs/flutter-app-testing
 
-Will be covered with all types of tests.
+App covered with all types of tests:
+- Unit tests to validate the add and remove operations.
+- Widgets tests for the home and favorites pages.
+- Integration app test for the main app logic in integration with UI.  
+- UI and performance tests for the entire app using integration tests.
 
 Target platform - Android.
 
